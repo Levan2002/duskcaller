@@ -46,3 +46,4 @@ footer{color:var(--muted);text-align:center;padding:40px 20px;font-size:14px}
 .guide article th,.guide article td{border-bottom:1px solid var(--line);padding:8px 10px 8px 0;text-align:left;vertical-align:top}
 .guide article th{color:var(--gold);white-space:nowrap}
 footer a{color:inherit}
+@media (max-width:520px){.guide article th{white-space:normal}.guide article table{font-size:15px}}
